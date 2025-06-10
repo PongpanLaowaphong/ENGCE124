@@ -1,0 +1,48 @@
+E:\ENGCE124\Bouncing_ball\Bouncing_ball\bin\Debug\net8.0-windows\Bouncing_ball.exe
+E:\ENGCE124\Bouncing_ball\Bouncing_ball\bin\Debug\net8.0-windows\Bouncing_ball.deps.json
+E:\ENGCE124\Bouncing_ball\Bouncing_ball\bin\Debug\net8.0-windows\Bouncing_ball.runtimeconfig.json
+E:\ENGCE124\Bouncing_ball\Bouncing_ball\bin\Debug\net8.0-windows\Bouncing_ball.dll
+E:\ENGCE124\Bouncing_ball\Bouncing_ball\bin\Debug\net8.0-windows\Bouncing_ball.pdb
+E:\ENGCE124\Bouncing_ball\Bouncing_ball\obj\Debug\net8.0-windows\Bouncing_ball.Form1.resources
+E:\ENGCE124\Bouncing_ball\Bouncing_ball\obj\Debug\net8.0-windows\Bouncing_ball.csproj.GenerateResource.cache
+E:\ENGCE124\Bouncing_ball\Bouncing_ball\obj\Debug\net8.0-windows\Bouncing_ball.GeneratedMSBuildEditorConfig.editorconfig
+E:\ENGCE124\Bouncing_ball\Bouncing_ball\obj\Debug\net8.0-windows\Bouncing_ball.AssemblyInfoInputs.cache
+E:\ENGCE124\Bouncing_ball\Bouncing_ball\obj\Debug\net8.0-windows\Bouncing_ball.AssemblyInfo.cs
+E:\ENGCE124\Bouncing_ball\Bouncing_ball\obj\Debug\net8.0-windows\Bouncing_ball.csproj.CoreCompileInputs.cache
+E:\ENGCE124\Bouncing_ball\Bouncing_ball\obj\Debug\net8.0-windows\Bouncing_ball.dll
+E:\ENGCE124\Bouncing_ball\Bouncing_ball\obj\Debug\net8.0-windows\refint\Bouncing_ball.dll
+E:\ENGCE124\Bouncing_ball\Bouncing_ball\obj\Debug\net8.0-windows\Bouncing_ball.pdb
+E:\ENGCE124\Bouncing_ball\Bouncing_ball\obj\Debug\net8.0-windows\Bouncing_ball.genruntimeconfig.cache
+E:\ENGCE124\Bouncing_ball\Bouncing_ball\obj\Debug\net8.0-windows\ref\Bouncing_ball.dll
+E:\ENGCE124\Bouncing_ball_final\Bouncing_ball\bin\Debug\net8.0-windows\Bouncing_ball.exe
+E:\ENGCE124\Bouncing_ball_final\Bouncing_ball\bin\Debug\net8.0-windows\Bouncing_ball.deps.json
+E:\ENGCE124\Bouncing_ball_final\Bouncing_ball\bin\Debug\net8.0-windows\Bouncing_ball.runtimeconfig.json
+E:\ENGCE124\Bouncing_ball_final\Bouncing_ball\bin\Debug\net8.0-windows\Bouncing_ball.dll
+E:\ENGCE124\Bouncing_ball_final\Bouncing_ball\bin\Debug\net8.0-windows\Bouncing_ball.pdb
+E:\ENGCE124\Bouncing_ball_final\Bouncing_ball\obj\Debug\net8.0-windows\Bouncing_ball.Form1.resources
+E:\ENGCE124\Bouncing_ball_final\Bouncing_ball\obj\Debug\net8.0-windows\Bouncing_ball.csproj.GenerateResource.cache
+E:\ENGCE124\Bouncing_ball_final\Bouncing_ball\obj\Debug\net8.0-windows\Bouncing_ball.GeneratedMSBuildEditorConfig.editorconfig
+E:\ENGCE124\Bouncing_ball_final\Bouncing_ball\obj\Debug\net8.0-windows\Bouncing_ball.AssemblyInfoInputs.cache
+E:\ENGCE124\Bouncing_ball_final\Bouncing_ball\obj\Debug\net8.0-windows\Bouncing_ball.AssemblyInfo.cs
+E:\ENGCE124\Bouncing_ball_final\Bouncing_ball\obj\Debug\net8.0-windows\Bouncing_ball.csproj.CoreCompileInputs.cache
+E:\ENGCE124\Bouncing_ball_final\Bouncing_ball\obj\Debug\net8.0-windows\Bouncing_ball.dll
+E:\ENGCE124\Bouncing_ball_final\Bouncing_ball\obj\Debug\net8.0-windows\refint\Bouncing_ball.dll
+E:\ENGCE124\Bouncing_ball_final\Bouncing_ball\obj\Debug\net8.0-windows\Bouncing_ball.pdb
+E:\ENGCE124\Bouncing_ball_final\Bouncing_ball\obj\Debug\net8.0-windows\Bouncing_ball.genruntimeconfig.cache
+E:\ENGCE124\Bouncing_ball_final\Bouncing_ball\obj\Debug\net8.0-windows\ref\Bouncing_ball.dll
+E:\ENGCE124\รวมไฟล์สำหรับส่ง [Bouncing_ball]\66543206019-2_Bouncing_Ball\Bouncing_ball\bin\Debug\net8.0-windows\Bouncing_ball.exe
+E:\ENGCE124\รวมไฟล์สำหรับส่ง [Bouncing_ball]\66543206019-2_Bouncing_Ball\Bouncing_ball\bin\Debug\net8.0-windows\Bouncing_ball.deps.json
+E:\ENGCE124\รวมไฟล์สำหรับส่ง [Bouncing_ball]\66543206019-2_Bouncing_Ball\Bouncing_ball\bin\Debug\net8.0-windows\Bouncing_ball.runtimeconfig.json
+E:\ENGCE124\รวมไฟล์สำหรับส่ง [Bouncing_ball]\66543206019-2_Bouncing_Ball\Bouncing_ball\bin\Debug\net8.0-windows\Bouncing_ball.dll
+E:\ENGCE124\รวมไฟล์สำหรับส่ง [Bouncing_ball]\66543206019-2_Bouncing_Ball\Bouncing_ball\bin\Debug\net8.0-windows\Bouncing_ball.pdb
+E:\ENGCE124\รวมไฟล์สำหรับส่ง [Bouncing_ball]\66543206019-2_Bouncing_Ball\Bouncing_ball\obj\Debug\net8.0-windows\Bouncing_ball.Form1.resources
+E:\ENGCE124\รวมไฟล์สำหรับส่ง [Bouncing_ball]\66543206019-2_Bouncing_Ball\Bouncing_ball\obj\Debug\net8.0-windows\Bouncing_ball.csproj.GenerateResource.cache
+E:\ENGCE124\รวมไฟล์สำหรับส่ง [Bouncing_ball]\66543206019-2_Bouncing_Ball\Bouncing_ball\obj\Debug\net8.0-windows\Bouncing_ball.GeneratedMSBuildEditorConfig.editorconfig
+E:\ENGCE124\รวมไฟล์สำหรับส่ง [Bouncing_ball]\66543206019-2_Bouncing_Ball\Bouncing_ball\obj\Debug\net8.0-windows\Bouncing_ball.AssemblyInfoInputs.cache
+E:\ENGCE124\รวมไฟล์สำหรับส่ง [Bouncing_ball]\66543206019-2_Bouncing_Ball\Bouncing_ball\obj\Debug\net8.0-windows\Bouncing_ball.AssemblyInfo.cs
+E:\ENGCE124\รวมไฟล์สำหรับส่ง [Bouncing_ball]\66543206019-2_Bouncing_Ball\Bouncing_ball\obj\Debug\net8.0-windows\Bouncing_ball.csproj.CoreCompileInputs.cache
+E:\ENGCE124\รวมไฟล์สำหรับส่ง [Bouncing_ball]\66543206019-2_Bouncing_Ball\Bouncing_ball\obj\Debug\net8.0-windows\Bouncing_ball.dll
+E:\ENGCE124\รวมไฟล์สำหรับส่ง [Bouncing_ball]\66543206019-2_Bouncing_Ball\Bouncing_ball\obj\Debug\net8.0-windows\refint\Bouncing_ball.dll
+E:\ENGCE124\รวมไฟล์สำหรับส่ง [Bouncing_ball]\66543206019-2_Bouncing_Ball\Bouncing_ball\obj\Debug\net8.0-windows\Bouncing_ball.pdb
+E:\ENGCE124\รวมไฟล์สำหรับส่ง [Bouncing_ball]\66543206019-2_Bouncing_Ball\Bouncing_ball\obj\Debug\net8.0-windows\Bouncing_ball.genruntimeconfig.cache
+E:\ENGCE124\รวมไฟล์สำหรับส่ง [Bouncing_ball]\66543206019-2_Bouncing_Ball\Bouncing_ball\obj\Debug\net8.0-windows\ref\Bouncing_ball.dll
